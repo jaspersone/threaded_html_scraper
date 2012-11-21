@@ -1,0 +1,1 @@
+A basic web scraper that takes in a list of URLs to visits and creates a dictionary from url to html content.
